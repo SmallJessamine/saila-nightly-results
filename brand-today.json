@@ -1,40 +1,15 @@
 {
   "job": "BRAND-TODAY",
-  "build_number": "20260701.2",
-  "timestamp": "2026-07-01T09:35:23Z",
+  "build_number": "20260702.1",
+  "timestamp": "2026-07-01T23:37:26Z",
   "tests": 22,
-  "passed": 16,
-  "failures": 6,
+  "passed": 21,
+  "failures": 1,
   "failed_tests": [
     {
-      "name": "BRAND-Today Correct [PREPROD] [be_fr]",
+      "name": "BRAND-Today Incorrect [PREPROD] [se]",
       "root_cause": "unknown",
-      "message": "TODAY-Correct-AllLang.spec.ts:57:9 BRAND-Today Correct [PREPROD] [be_fr]"
-    },
-    {
-      "name": "BRAND-Today Correct [PREPROD] [be_nl]",
-      "root_cause": "unknown",
-      "message": "TODAY-Correct-AllLang.spec.ts:57:9 BRAND-Today Correct [PREPROD] [be_nl]"
-    },
-    {
-      "name": "BRAND-Today Incorrect [PREPROD] [sk]",
-      "root_cause": "unknown",
-      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [sk]"
-    },
-    {
-      "name": "BRAND-Today Incorrect [PREPROD] [tr]",
-      "root_cause": "unknown",
-      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [tr]"
-    },
-    {
-      "name": "BRAND-Today Incorrect [PREPROD] [ro]",
-      "root_cause": "unknown",
-      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [ro]"
-    },
-    {
-      "name": "BRAND-Today Incorrect [PREPROD] [be_fr]",
-      "root_cause": "unknown",
-      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [be_fr]"
+      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [se]"
     }
   ]
 }
