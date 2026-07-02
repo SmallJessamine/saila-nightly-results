@@ -1,35 +1,9 @@
 {
   "job": "BRAND-BRAND",
-  "build_number": "20260701.2",
-  "timestamp": "2026-07-01T10:00:14Z",
+  "build_number": "20260702.1",
+  "timestamp": "2026-07-02T00:15:28Z",
   "tests": 22,
-  "passed": 17,
-  "failures": 5,
-  "failed_tests": [
-    {
-      "name": "BRAND-Brand Correct [PREPROD] [ro]",
-      "root_cause": "unknown",
-      "message": "BRAND-Correct-AllLang.spec.ts:56:9 BRAND-Brand Correct [PREPROD] [ro]"
-    },
-    {
-      "name": "BRAND-Brand Correct [PREPROD] [eg]",
-      "root_cause": "unknown",
-      "message": "BRAND-Correct-AllLang.spec.ts:56:9 BRAND-Brand Correct [PREPROD] [eg]"
-    },
-    {
-      "name": "BRAND-Brand Correct [PREPROD] [ie]",
-      "root_cause": "unknown",
-      "message": "BRAND-Correct-AllLang.spec.ts:56:9 BRAND-Brand Correct [PREPROD] [ie]"
-    },
-    {
-      "name": "BRAND-Brand Correct [PREPROD] [be_fr]",
-      "root_cause": "unknown",
-      "message": "BRAND-Correct-AllLang.spec.ts:56:9 BRAND-Brand Correct [PREPROD] [be_fr]"
-    },
-    {
-      "name": "BRAND-Brand Correct [PREPROD] [be_nl]",
-      "root_cause": "unknown",
-      "message": "BRAND-Correct-AllLang.spec.ts:56:9 BRAND-Brand Correct [PREPROD] [be_nl]"
-    }
-  ]
+  "passed": 22,
+  "failures": 0,
+  "failed_tests": []
 }
