@@ -1,50 +1,15 @@
 {
   "job": "INVOICES",
-  "build_number": "20260701.2",
-  "timestamp": "2026-07-01T08:59:14Z",
+  "build_number": "20260702.1",
+  "timestamp": "2026-07-02T00:03:22Z",
   "tests": 24,
-  "passed": 16,
-  "failures": 8,
+  "passed": 23,
+  "failures": 1,
   "failed_tests": [
     {
-      "name": "Invoice-FON-Incorrect [PREPROD] [en]",
+      "name": "Invoice-PROD [tr] [fleet-training]",
       "root_cause": "unknown",
-      "message": "FON-Incorrect-AllLang.spec.ts:50:9 Invoice-FON-Incorrect [PREPROD] [en]"
-    },
-    {
-      "name": "Invoice-FON-Incorrect [PREPROD] [tr]",
-      "root_cause": "unknown",
-      "message": "FON-Incorrect-AllLang.spec.ts:50:9 Invoice-FON-Incorrect [PREPROD] [tr]"
-    },
-    {
-      "name": "Invoice-OffTopicAll [PREPROD] [en] [fon]",
-      "root_cause": "unknown",
-      "message": "Offtopic-AllLang.spec.ts:49:9 Invoice-OffTopicAll [PREPROD] [en] [fon]"
-    },
-    {
-      "name": "Invoice-OffTopicAll [PREPROD] [en] [fleet]",
-      "root_cause": "unknown",
-      "message": "Offtopic-AllLang.spec.ts:49:9 Invoice-OffTopicAll [PREPROD] [en] [fleet]"
-    },
-    {
-      "name": "Invoice-OffTopicAll [PREPROD] [nl] [fon]",
-      "root_cause": "unknown",
-      "message": "Offtopic-AllLang.spec.ts:49:9 Invoice-OffTopicAll [PREPROD] [nl] [fon]"
-    },
-    {
-      "name": "Invoice-OffTopicAll [PREPROD] [nl] [fleet]",
-      "root_cause": "unknown",
-      "message": "Offtopic-AllLang.spec.ts:49:9 Invoice-OffTopicAll [PREPROD] [nl] [fleet]"
-    },
-    {
-      "name": "Invoice-OffTopicAll [PREPROD] [tr] [fon]",
-      "root_cause": "unknown",
-      "message": "Offtopic-AllLang.spec.ts:49:9 Invoice-OffTopicAll [PREPROD] [tr] [fon]"
-    },
-    {
-      "name": "Invoice-OffTopicAll [PREPROD] [tr] [fleet]",
-      "root_cause": "unknown",
-      "message": "Offtopic-AllLang.spec.ts:49:9 Invoice-OffTopicAll [PREPROD] [tr] [fleet]"
+      "message": "PROD-Invoice-AllLang.spec.ts:42:7 Invoice-PROD [tr] [fleet-training]"
     }
   ]
 }
