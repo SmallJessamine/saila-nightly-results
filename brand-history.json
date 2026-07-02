@@ -1,45 +1,9 @@
 {
   "job": "BRAND-HISTORY",
-  "build_number": "20260701.2",
-  "timestamp": "2026-07-01T11:44:18Z",
+  "build_number": "20260702.1",
+  "timestamp": "2026-07-02T02:24:57Z",
   "tests": 33,
-  "passed": 26,
-  "failures": 7,
-  "failed_tests": [
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [se]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [se]"
-    },
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [ua]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [ua]"
-    },
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [ro]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [ro]"
-    },
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [eg]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [eg]"
-    },
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [ie]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [ie]"
-    },
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [be_fr]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [be_fr]"
-    },
-    {
-      "name": "BRAND-History 1Mistake [PREPROD] [be_nl]",
-      "root_cause": "unknown",
-      "message": "HISTORY-1Mistake-AllLang.spec.ts:58:9 BRAND-History 1Mistake [PREPROD] [be_nl]"
-    }
-  ]
+  "passed": 33,
+  "failures": 0,
+  "failed_tests": []
 }
