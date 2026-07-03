@@ -1,20 +1,9 @@
 {
   "job": "BRAND-TODAY",
-  "build_number": "20260703.1",
-  "timestamp": "2026-07-02T23:38:53Z",
-  "tests": 22,
-  "passed": 20,
-  "failures": 2,
-  "failed_tests": [
-    {
-      "name": "BRAND-Today Incorrect [PREPROD] [tr]",
-      "root_cause": "unknown",
-      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [tr]"
-    },
-    {
-      "name": "BRAND-Today Incorrect [PREPROD] [be_fr]",
-      "root_cause": "unknown",
-      "message": "TODAY-Incorrect-AllLang.spec.ts:57:9 BRAND-Today Incorrect [PREPROD] [be_fr]"
-    }
-  ]
+  "build_number": "20260704.1",
+  "timestamp": "2026-07-03T23:37:52Z",
+  "tests": 0,
+  "passed": 0,
+  "failures": 0,
+  "failed_tests": []
 }
