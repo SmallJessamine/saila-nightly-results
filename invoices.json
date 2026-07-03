@@ -1,15 +1,9 @@
 {
   "job": "INVOICES",
-  "build_number": "20260702.1",
-  "timestamp": "2026-07-02T00:03:22Z",
+  "build_number": "20260703.1",
+  "timestamp": "2026-07-03T00:06:03Z",
   "tests": 24,
-  "passed": 23,
-  "failures": 1,
-  "failed_tests": [
-    {
-      "name": "Invoice-PROD [tr] [fleet-training]",
-      "root_cause": "unknown",
-      "message": "PROD-Invoice-AllLang.spec.ts:42:7 Invoice-PROD [tr] [fleet-training]"
-    }
-  ]
+  "passed": 24,
+  "failures": 0,
+  "failed_tests": []
 }
