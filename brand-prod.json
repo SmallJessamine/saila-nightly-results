@@ -1,7 +1,7 @@
 {
   "job": "BRAND-PROD",
-  "build_number": "20260724.1",
-  "timestamp": "2026-07-24T00:03:12Z",
+  "build_number": "20260725.1",
+  "timestamp": "2026-07-25T00:05:09Z",
   "tests": 0,
   "passed": 0,
   "failures": 0,
